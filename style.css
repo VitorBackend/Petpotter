@@ -30,4 +30,8 @@ body {
 .frase1 {
 	
 	color: black ;
+	position: absolute;
+	top: 5%;
+	font-size: 17px;
+	right: 43%;
 }
